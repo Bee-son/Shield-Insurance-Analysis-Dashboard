@@ -41,5 +41,10 @@ Shield Insurance needed a unified view of customer demographics, sales channels,
 ✔ Explore customer lifetime value (CLV) driven cross-sell and loyalty initiatives
 
 Home Page: https://github.com/Bee-son/Shield-Insurance-Analysis-Dashboard/blob/main/Home_Page.png
+
 General View: https://github.com/Bee-son/Shield-Insurance-Analysis-Dashboard/blob/main/General_View.png
+
+Sales Mode Anaysis: https://github.com/Bee-son/Shield-Insurance-Analysis-Dashboard/blob/main/Sales_Mode_Analysis.png
+
+Age Group Analysis:
 
