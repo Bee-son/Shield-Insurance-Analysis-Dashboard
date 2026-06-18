@@ -39,3 +39,5 @@ Shield Insurance needed a unified view of customer demographics, sales channels,
 ✔ Develop targeted strategies for high-value age segments
 ✔ Enhance risk scoring and retention programs using settlement behavior insights
 ✔ Explore customer lifetime value (CLV) driven cross-sell and loyalty initiatives
+
+Home Page Preview: https://github.com/Bee-son/Shield-Insurance-Analysis-Dashboard/blob/main/Home_Page.png
