@@ -1,13 +1,13 @@
 # Shield-Insurance-Analysis-Dashboard
 
-A dynamic, interactive data visualization tool built to explore Shield insurance-focusing on-
-📊 Revenue Performance Analysis
-👥 Customer Segmentation & Demographics
-🌐 Sales Channel Effectiveness
-⚠️ Age-Based Settlement Risk Analysis
-📈 Monthly & Seasonal Trend Analysis
+A dynamic, interactive data visualization tool built to explore Shield insurance focusing on
+🔹Revenue Performance Analysis
+🔹Customer Segmentation & Demographics
+🔹Sales Channel Effectiveness
+🔹Age-Based Settlement Risk Analysis
+🔹Monthly & Seasonal Trend Analysis
 
-📌 Business Objective
+Business Objective
 
 Shield Insurance needed a unified view of customer demographics, sales channels, policy performance, and settlement trends to support data-driven decision-making and improve business outcomes.
 
@@ -21,9 +21,9 @@ Shield Insurance needed a unified view of customer demographics, sales channels,
 ✅ Data Visualization
 ✅ Business Intelligence & Storytelling
 
-📄Data Source- Intergrated data from 5 CSV files
+Data Source- Intergrated data from 5 CSV files
 
-💡 Key Business Insights
+Key Business Insights
 
 🔹 Offline-Agent channel emerged as the top-performing sales channel, contributing the highest share of revenue and customers.
 🔹 Customers aged 31–50 accounted for the majority of revenue, making them the most valuable customer segment.
@@ -32,7 +32,7 @@ Shield Insurance needed a unified view of customer demographics, sales channels,
 🔹 Delhi NCR stood out as the leading market, contributing the highest revenue and customer volume.
 🔹 Seasonality analysis revealed a strong sales peak in March, providing valuable insights for future campaign planning and resource allocation.
 
-🎯 Recommendations Derived from the Analysis
+Recommendations Derived from the Analysis
 
 ✔ Strengthen and optimize the Offline-Agent network
 ✔ Increase investment in digital acquisition channels
